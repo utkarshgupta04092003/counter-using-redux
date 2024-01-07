@@ -17,6 +17,7 @@
 The React Counter App with Redux Toolkit is a simple web application built with React, Vite, Tailwind CSS, and Redux Toolkit. The app features a counter with three buttons - Increase, Decrease, and Reset. It serves as a practice project for implementing state management using Redux Toolkit.
 
 ## Screenshot
+![image](https://github.com/utkarshgupta04092003/counter-using-redux/assets/63789702/e03c1571-8837-4c7f-b466-e8a8649bd77d)
 
 
 ## Features
